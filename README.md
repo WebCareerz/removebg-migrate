@@ -43,11 +43,13 @@ No dependencies, Python 3.9+. It reads Python, JavaScript/TypeScript, PHP, Ruby,
 
 ## Install
 
+Clone this repository, then from its folder:
+
 ```bash
-pip install git+https://github.com/OWNER/removebg-migrate
+pip install .
 ```
 
-Or clone it and run `python -m removebg_migrate`.
+Or skip the install and run `python -m removebg_migrate` from the folder.
 
 ## Usage
 
