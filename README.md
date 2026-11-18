@@ -39,7 +39,7 @@ CHECK  src/cutout.py:14  [x_type]
 1 change, 2 error, 2 check  (use -v to show info)
 ```
 
-No dependencies, Python 3.9+. It reads Python, JavaScript/TypeScript, PHP, Ruby, Go, Java, C#, shell scripts, config files and more as plain text, so it works on any codebase.
+No dependencies, Python 3.10+. It reads Python, JavaScript/TypeScript, PHP, Ruby, Go, Java, C#, shell scripts, config files and more as plain text, so it works on any codebase.
 
 ## Install
 

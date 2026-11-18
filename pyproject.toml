@@ -7,7 +7,7 @@ name = "removebg-migrate"
 version = "0.1.0"
 description = "Find remove.bg API calls in your code, flag options that won't carry over, and switch to a compatible endpoint."
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 license = { text = "MIT" }
 keywords = ["remove.bg", "background removal", "api", "migration", "transparent png"]
 classifiers = [
