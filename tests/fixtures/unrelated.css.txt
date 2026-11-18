@@ -1,0 +1,1 @@
+.box { position: absolute; size: 12px; format: zip; }
